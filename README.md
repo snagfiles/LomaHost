@@ -24,13 +24,10 @@ Windows 10 or Windows 11 (64-bit). Apache 2.4, PHP 8.4, and MariaDB 12 are inclu
 3. Run `LomaHost.exe` — Apache and MariaDB start automatically
 4. Open `http://localhost` in your browser
 
-## Download
-
-[⬇ Download LomaHost (158 MB)](https://drive.google.com/uc?export=download&id=1I5ntCpY5_ndWrTxTm4kydqeo2KlUyCrK)
 
 ## License
 
-LomaHost is free to use. See [LICENSE.txt](LICENSE.txt) for the full terms.
+LomaHost is free to use. See License txt file in zip
 
 ---
 
