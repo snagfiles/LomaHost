@@ -14,7 +14,7 @@ Free portable localhost server for Windows — Apache 2.4, PHP 8.4, and MariaDB 
 - 100% free, no ads, no data collection
   
 
-![LomaHost screenshot](images/screenshot_lomahost.png)
+![LomaHost screenshot](screenshot_lomahost.jpg)
 
 ## System Requirements
 
