@@ -12,6 +12,9 @@ Free portable localhost server for Windows — Apache 2.4, PHP 8.4, and MariaDB 
 - **Editable config files** — full access to `php.ini`, `httpd.conf`, and `my.ini` for advanced tuning
 - **Custom ports** — change Apache/MariaDB ports to avoid conflicts
 - 100% free, no ads, no data collection
+  
+
+![LomaHost screenshot](images/screenshot_lomahost.png)
 
 ## System Requirements
 
