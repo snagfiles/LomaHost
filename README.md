@@ -29,6 +29,7 @@ https://github.com/snagfiles/LomaHost/releases
 2. Extract the files to a folder of your choice
 3. Run `LomaHost.exe` — Apache and MariaDB start automatically
 4. Open `http://localhost` in your browser
+5. Reset mariadb password before use adminer (adminer not allow blank password)
 
 
 ## License
